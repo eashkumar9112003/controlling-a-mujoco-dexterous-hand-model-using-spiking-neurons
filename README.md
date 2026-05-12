@@ -62,6 +62,7 @@ neural communication.
 **Deliverables:** "Step-by-step guide attached as an appendix".
 
 
+• I attached the video demo of the project. In the video, you can see the shadow hand model working and the moments of the hand 
 
 
 **Results images:**
