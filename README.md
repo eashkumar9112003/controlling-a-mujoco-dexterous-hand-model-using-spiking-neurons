@@ -57,7 +57,11 @@ neural communication.
 **• Embodiment-controllers:** https://github.com/feagi/embodiment-controllers.git
 
 
+
+
 **Deliverables:** "Step-by-step guide attached as an appendix".
+
+
 
 
 **Results images:**
