@@ -1,6 +1,7 @@
 # Controlling-a-MuJoCo-Dexterous-Hand-Model-Using-Spiking-Neurons
 
 **Introduction** 
+
 This project demonstrates the integration of MuJoCo with FEAGI to simulate and control the Shadow 
 Hand robotic model in a biologically inspired neural environment. 
 MuJoCo is a high-performance physics simulator widely used for robotics, reinforcement learning, and 
