@@ -28,7 +28,7 @@ FEAGI and Brain Visualizer, and connecting the MuJoCo embodiment controller to F
 integrated successfully, the simulator can display and control the Shadow Hand using FEAGI-driven 
 neural communication.
 
-**This setup is useful for:**
+ **This setup is useful for:**
 
 • Robotics research 
 
@@ -39,3 +39,49 @@ neural communication.
 • Human hand manipulation studies 
 
 • Reinforcement learning environments
+
+ **Official resources:** 
+
+**• MuJoCo:** https://mujoco.org/?utm_source=chatgpt.com
+
+**• FEAGI:** https://github.com/feagi/feagi
+
+**• FEAGI GitHub Organization:** https://github.com/feagi?utm_source=chatgpt.com 
+
+ **Official Git Repositories:** 
+
+**• Mujoco_menagerie:** https://github.com/google-deepmind/mujoco_menagerie.git
+
+**• FEAGI:**  https://github.com/feagi/controllers.git 
+
+**• Embodiment-controllers:** https://github.com/feagi/embodiment-controllers.git
+
+
+**Deliverables:** "Step-by-step guide attached as an appendix".
+
+
+**Results images:**
+
+
+<img width="830" height="326" alt="image" src="https://github.com/user-attachments/assets/2a3a7437-1b1a-45f9-b415-d848d12626bb" />
+
+   **Fig 1:**  MuJoCo window
+  
+  <img width="494" height="342" alt="image" src="https://github.com/user-attachments/assets/399e6e0a-92df-4ee4-aa40-97997c49034a" />
+<img width="403" height="351" alt="image" src="https://github.com/user-attachments/assets/0f888f08-3185-4cb3-b038-10825c3152a8" />
+
+**Fig 2:** Mujoco+shadow hand
+
+
+<img width="403" height="351" alt="image" src="https://github.com/user-attachments/assets/7e806daf-574a-4eae-aef4-c95cb8cdb6ef" />
+
+**Fig 3:** Hand model 
+
+<img width="940" height="97" alt="image" src="https://github.com/user-attachments/assets/17a5f87f-7798-4a45-a1d9-bcf8033f88f0" />
+
+**Fig 4:** FEAGI successfully running
+
+
+<img width="606" height="405" alt="image" src="https://github.com/user-attachments/assets/8582c25a-ba4e-4896-a50a-6589809d05c3" />
+
+**Fig 5:** FEAGI Brain Visualizer
