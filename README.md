@@ -77,7 +77,8 @@ neural communication.
 **Fig 2:** Mujoco+shadow hand
 
 
-<img width="403" height="351" alt="image" src="https://github.com/user-attachments/assets/7e806daf-574a-4eae-aef4-c95cb8cdb6ef" />
+<img width="940" height="619" alt="image" src="https://github.com/user-attachments/assets/b0c40509-dee6-4d2b-a3b3-e953b020b52f" />
+
 
 **Fig 3:** Hand model 
 
